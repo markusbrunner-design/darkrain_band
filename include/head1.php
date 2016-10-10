@@ -8,13 +8,13 @@
 <?php 
 	//former domain:
 	//$domain="www.darkrain-band.de";
-	$domain="darkrain.kreativmix.de";
+	$domain="darkrain.markusbrunner.de";
 	if($_SERVER['HTTP_HOST'] == 'markusbrunner-design.loc') {
 		//dev: 
 		$domain="markusbrunner-design.loc/fileadmin/darkrain/darkrain_band";
 	} else {
 		//live: 
-		$domain="darkrain.kreativmix.de";
+		$domain="darkrain.markusbrunner.de";
 	}
 ?>
 
