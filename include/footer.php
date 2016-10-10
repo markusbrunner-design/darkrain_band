@@ -1,0 +1,21 @@
+<?php ?>
+	</div>
+    <div id="footer">
+	 <div class="displaynone"><br />
+      <a class="keindruck" href="#hauptnav">zur Hauptnavigation</a><br />
+      <a class="keindruck" href="#metanav">zur Metanavigation</a>
+      <hr />
+      <br />
+      <br />
+     </div>
+	 <img class="keindruck" alt="" src="http://<?php echo $domain; ?>/images/sonstiges/linie.gif" width="550" /><br />
+     <span class="inhalt3" style="padding-left: 25px;">
+	  Copyright by Dark Rain<a href="http://<?php echo $domain; ?>/sonstiges/markengesetz_darkrain/markengesetz_darkrain.php"><span class="hochgestellt">&reg;</span></a>&nbsp;&nbsp;&ndash;&nbsp;&nbsp;Pop / Hard Rock / Melodic Metal
+     </span>
+    </div>
+  </div>
+</div>
+</body>
+
+</html>
+<?php ?>

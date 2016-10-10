@@ -1,0 +1,108 @@
+<?php include '../include/head1.php'; ?>
+	<title>Dark Rain - Discographie</title>
+<?php include '../include/head2.php'; ?>
+
+
+<!-- Discographie -->
+	<h1>Discographie</h1>
+	<?php
+/*
+	?>
+	<p class="inhalt1">
+		Hier kannst du dir ein paar kleine Kostproben unserer bisher ver&ouml;ffentlichten Songs anh&ouml;ren (20&nbsp;Sekunden ab draufklicken).
+		Wir haben bisher zwei Alben aufgenommen, die auch in unserem&nbsp;&nbsp;<a href="../shop/shop.php" target="_self">Online-Shop</a>&nbsp;&nbsp;erh&auml;ltlich sind.
+	</p>
+	<br />
+	<?php
+*/
+	?>
+	<table border="0" cellspacing="0" cellpadding="0">
+	<!-- The First Songs -->
+		<tr>
+			<td width="125" class="inhalt1">
+				<a href="../shop/shop.php" target="_self"><img alt="Bild des Albums &quot;The First Songs&quot;" src="../shop/bilder/the_first_songs_vorne_125.jpg" width="125" border="1" style="border-color:rgb(153, 153, 153);" /></a>
+			</td>
+			<td width="375" style="padding-left:10px" class="inhalt1">
+				<h2 style="padding-left:10px">The first songs (Ltd. Edition, 2001)</h2>
+				<ol>
+					<li>
+						<a href="songausschnitte_the_first_songs/DarkRain_01_thinking.mp3" target="_self">Thinking</a>
+					</li>
+					<li>
+						<a href="songausschnitte_the_first_songs/DarkRain_02_ever.mp3" target="_self">Ever</a>
+					</li>
+					<li>
+						<a href="songausschnitte_the_first_songs/DarkRain_03_seven.mp3" target="_self">Seven</a>
+					</li>
+					<li>
+						<a href="songausschnitte_the_first_songs/DarkRain_04_are_you_really_loving_me.mp3" target="_self">Are you really loving me?</a>
+					</li>
+				</ol>
+				<br /><br />
+			</td>
+		</tr>
+	<!-- Frame of Mind -->
+		<tr>
+			<td width="125" class="inhalt1">
+				<a href="../shop/shop.php" target="_self"><img alt="Bild des Albums &quot;Frame of Mind&quot;" src="../shop/bilder/frame_of_mind_vorne_125.jpg" width="125" border="1" style="border-color:rgb(153, 153, 153);" /></a>
+			</td>
+			<td width="375" style="padding-left:10px" class="inhalt1">
+				<h2 style="padding-left:10px">Frame of Mind (2003)</h2>
+				<ol>
+					<li>
+						Intro
+					</li>
+					<li>
+						<a href="songausschnitte_frame_of_mind/DarkRain_02_fight.mp3" target="_self">Fight</a>
+					</li>
+					<li>
+						<a href="songausschnitte_frame_of_mind/DarkRain_03_color_of_your_skin.mp3" target="_self">The color of your skin</a>
+					</li>
+					<li>
+						<a href="songausschnitte_frame_of_mind/DarkRain_04_the_outsider.mp3" target="_self">Outsider</a>
+					</li>
+					<li>
+						<a href="songausschnitte_frame_of_mind/DarkRain_05_candlelight.mp3" target="_self">Candlelight</a>
+					</li>
+					<li>
+						<a href="songausschnitte_frame_of_mind/DarkRain_06_so_alone.mp3" target="_self">So alone</a>
+					</li>
+					<li>
+						<a href="songausschnitte_frame_of_mind/DarkRain_07_cold.mp3" target="_self">Cold</a>
+					</li>
+					<li>
+						<a href="songausschnitte_frame_of_mind/DarkRain_08_blue.mp3" target="_self">Blue</a>
+					</li>
+					<li>
+						<a href="songausschnitte_frame_of_mind/DarkRain_09_be_me.mp3" target="_self">Be me</a>
+					</li>
+					<li>
+						<a href="songausschnitte_frame_of_mind/DarkRain_10_come_home.mp3" target="_self">Come home</a>
+					</li>
+					<li>
+						<a href="songausschnitte_frame_of_mind/DarkRain_11_find_the_key.mp3" target="_self">Find the key</a>
+					</li>
+					<li>
+						<a href="songausschnitte_frame_of_mind/DarkRain_12_day_when_i_went_down.mp3" target="_self">The day when I went down</a>
+					</li>
+					<li>
+						<a href="songausschnitte_frame_of_mind/DarkRain_13_see_you_again.mp3" target="_self">See you again</a>
+					</li>
+					<li>
+						<a href="songausschnitte_frame_of_mind/DarkRain_14_lost_angeles.mp3" target="_self">Lost angeles</a>
+					</li>
+					<li>
+						<a href="songausschnitte_frame_of_mind/DarkRain_15_meant_to_die.mp3" target="_self">Meant to die</a>
+					</li>
+					<li>
+						<a href="songausschnitte_frame_of_mind/DarkRain_16_lose_you.mp3" target="_self">Lose you</a>
+					</li>
+					<li>
+						Outro
+					</li>
+					<br />
+				</ol>
+			</td>
+		</tr>
+	</table>
+<?php include '../include/footer.php'; ?>

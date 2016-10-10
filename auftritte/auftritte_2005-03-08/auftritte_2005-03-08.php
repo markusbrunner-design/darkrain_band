@@ -1,0 +1,17 @@
+<?php include '../../include/head1.php'; ?>
+	<title>Dark Rain - die offizielle Homepage</title>
+<?php include '../../include/head2.php'; ?>
+
+	<p class="titel">Buchen &ndash; Kulturabend</p>
+	<table border="0" cellspacing="0" cellpadding="0">
+		<tr>
+			<td width="500" class="inhalt1" align="center">
+				<a href="javascript:zoom800x600('auftritte_2005-03-08_1.jpg')" target="_self"><img alt="Buchen &ndash; Kulturabend" src="auftritte_2005-03-08_1_min.jpg" border="0" vspace="5" hspace="5" /></a>
+			</td>
+	</table>
+	<p class="inhalt1" align="center">
+		<br />
+		<a href="javascript:history.back();">&laquo; zur&uuml;ck</a>
+	</p>
+
+<?php include '../../include/footer.php'; ?>

@@ -1,0 +1,382 @@
+<?php include '../../include/head1.php'; ?>
+	<title>Dark Rain - Auftritte Bilder MP3s Videos</title>
+<?php include '../../include/head2.php'; ?>
+
+
+	<h1>Bilder MP3s Videos</h1>
+
+	<h2>Bilder</h2>
+	
+	<!--<br />
+	<table border="0" cellspacing="0" cellpadding="0">
+		<tr>
+			<td width="500" colspan="2">
+				<h3>Promotion</h3>
+			</td>
+		</tr>
+		<tr class="bggrau">
+			<td width="125" class="inhalt1">
+				immer
+			</td>
+			<td width="375" class="inhalt1">
+				<a href="../../multimedia/bilder/promotion/promotion_zeitungsartikel/promotion_zeitungsartikel.php">Zeitungsartikel</a>
+			</td>
+		</tr>
+		<tr>
+			<td width="125" class="inhalt1">
+				2005
+			</td>
+			<td width="375" class="inhalt1">
+				<a href="../../multimedia/bilder/promotion/promotion_2005/promotion_2005.php">Promotion</a>
+			</td>
+		</tr>
+		<tr class="bggrau">
+			<td width="125" class="inhalt1">
+				2004
+			</td>
+			<td width="375" class="inhalt1">
+				<a href="../../multimedia/bilder/promotion/promotion_2004/promotion_2004.php">Promotion</a>
+			</td>
+		</tr>
+		<tr>
+			<td width="125" class="inhalt1">
+				2003
+			</td>
+			<td width="375" class="inhalt1">
+				<a href="../../multimedia/bilder/promotion/promotion_2003/promotion_2003.php">&quot;Frame of mind&quot;</a>
+			</td>
+		</tr>
+		<tr class="bggrau">
+			<td width="125" class="inhalt1">
+				2002
+			</td>
+			<td width="375" class="inhalt1">
+				<a href="../../multimedia/bilder/promotion/promotion_2002/promotion_2002.php">Promotion</a>
+			</td>
+		</tr>
+		<tr>
+			<td width="125" class="inhalt1">
+				2001
+			</td>
+			<td width="375" class="inhalt1">
+				<a href="../../multimedia/bilder/promotion/promotion_2001/promotion_2001.php">&quot;The First Songs&quot;</a>
+			</td>
+		</tr>
+	</table>
+	<br /><br />
+	<table border="0" cellspacing="0" cellpadding="0">
+		<tr>
+			<td width="500" colspan="2">
+				<h3>Studio</h3>
+			</td>
+		</tr>
+		<tr class="bggrau">
+			<td width="125" class="inhalt1">
+				2001
+			</td>
+			<td width="375" class="inhalt1">
+				<a href="../../multimedia/bilder/studio/studio_2001/studio_2001.php">Florida &ndash; &quot;The First Songs&quot;</a>
+			</td>
+		</tr>
+	</table>
+	<br /><br />-->
+
+
+
+	<!-- Auftritte -->
+	<table border="0" cellspacing="0" cellpadding="0">
+		<!--<tr>
+			<td width="500" colspan="2">
+				<h3>Auftritte</p>
+			</td>
+		</tr>-->
+		<tr>
+			<td width="125" class="inhalt1">
+				2005-09-24
+			</td>
+			<td width="375" class="inhalt1">
+				<a href="../auftritte_2005-09-24/auftritte_2005-09-24.php">Adelsheim &ndash; mit Lost Eden</a>
+			</td>
+		</tr>
+		<tr class="bggrau">
+			<td width="125" class="inhalt1">
+				2005-07-20
+			</td>
+			<td width="375" class="inhalt1">
+				<a href="../auftritte_2005-07-20/auftritte_2005-07-20.php">M&uuml;nchen &ndash; Bayern 4 - KlassiXmiX-Party</a>
+			</td>
+		</tr>
+		<tr>
+			<td width="125" class="inhalt1">
+				2005-06-18
+			</td>
+			<td width="375" class="inhalt1">
+				<a href="../auftritte_2005-06-18/auftritte_2005-06-18.php">Adelsheim &ndash; mit Lost Eden</a>
+			</td>
+		</tr>
+		<tr class="bggrau">
+			<td width="125" class="inhalt1">
+				2005-06-17
+			</td>
+			<td width="375" class="inhalt1">
+				<a href="../auftritte_2005-06-17/auftritte_2005-06-17.php">Limbach &ndash; Bretthart-Festival</a>
+			</td>
+		</tr>
+		<tr>
+			<td width="125" class="inhalt1">
+				2005-05-27
+			</td>
+			<td width="375" class="inhalt1">
+				<a href="../auftritte_2005-05-27/auftritte_2005-05-27.php">Stuttgart &ndash; LKA-Youngsterball</a>
+			</td>
+		</tr>
+		<tr class="bggrau">
+			<td width="125" class="inhalt1">
+				2005-03-08
+			</td>
+			<td width="375" class="inhalt1">
+				<a href="../auftritte_2005-03-08/auftritte_2005-03-08.php">Buchen &ndash; Kulturabend</a>
+			</td>
+		</tr>
+		<tr>
+			<td width="125" class="inhalt1">
+				2004-05-30
+			</td>
+			<td width="375" class="inhalt1">
+				<a href="../auftritte_2004-05-30/auftritte_2004-05-30.php">Adelsheim &ndash; Open Air im Zirkuszelt</a>
+			</td>
+		</tr>
+		<tr class="bggrau">
+			<td width="125" class="inhalt1">
+				2004
+			</td>
+			<td width="375" class="inhalt1">
+				<a href="../auftritte_2004_4/auftritte_2004_4.php">Buchen &ndash; Seitenbacher-Betriebsfeier</a>
+			</td>
+		</tr>
+		<tr>
+			<td width="125" class="inhalt1">
+				2004
+			</td>
+			<td width="375" class="inhalt1">
+				<a href="../auftritte_2004_3/auftritte_2004_3.php">Buchen &ndash; Frankenlandhalle</a>
+			</td>
+		</tr>
+		<tr class="bggrau">
+			<td width="125" class="inhalt1">
+				2004
+			</td>
+			<td width="375" class="inhalt1">
+				<a href="../auftritte_2004_2/auftritte_2004_2.php">Osterburken &ndash; mit Barbed Wire</a>
+			</td>
+		</tr>
+		<tr>
+			<td width="125" class="inhalt1">
+				2004
+			</td>
+			<td width="375" class="inhalt1">
+				<a href="../auftritte_2004_1/auftritte_2004_1.php">Hainstadt &ndash; Abifeier BGB vor Shark</a>
+			</td>
+		</tr>
+		<tr class="bggrau">
+			<td width="125" class="inhalt1">
+				2003-12-27
+			</td>
+			<td width="375" class="inhalt1">
+				<a href="../auftritte_2003-12-27/auftritte_2003-12-27.php">Horb &ndash; Rainbow</a>
+			</td>
+		</tr>
+		<tr>
+			<td width="125" class="inhalt1">
+				2003
+			</td>
+			<td width="375" class="inhalt1">
+				<a href="../auftritte_2003-10-18/auftritte_2003-10-18.php">H&ouml;pfingen &ndash; Rock against terror</a>
+			</td>
+		</tr>
+		<tr class="bggrau">
+			<td width="125" class="inhalt1">
+				2003
+			</td>
+			<td width="375" class="inhalt1">
+				<a href="../auftritte_2003_2/auftritte_2003_2.php">Stuttgart &ndash; Home and Family Messe</a>
+			</td>
+		</tr>
+		<tr>
+			<td width="125" class="inhalt1">
+				2003
+			</td>
+			<td width="375" class="inhalt1">
+				<a href="../auftritte_2003_1/auftritte_2003_1.php">Mudau &ndash; SWR3 Dancenight</a>
+			</td>
+		</tr>
+		<tr class="bggrau">
+			<td width="125" class="inhalt1">
+				2002
+			</td>
+			<td width="375" class="inhalt1">
+				<a href="../auftritte_2002_2/auftritte_2002_2.php">Merchingen &ndash; Bienenstockfest</a>
+			</td>
+		</tr>
+		<tr>
+			<td width="125" class="inhalt1">
+				2002
+			</td>
+			<td width="375" class="inhalt1">
+				<a href="../auftritte_2002_1/auftritte_2002_1.php">Polsing Trendel &ndash; Kanap&eacute;efest</a>
+			</td>
+		</tr>
+		<tr class="bggrau">
+			<td width="125" class="inhalt1">
+				2001
+			</td>
+			<td width="375" class="inhalt1">
+				<a href="../auftritte_2001_3/auftritte_2001_3.php">Buchen &ndash; Caf&eacute; Pfeiffer</a>
+			</td>
+		</tr>
+		<tr>
+			<td width="125" class="inhalt1">
+				2001
+			</td>
+			<td width="375" class="inhalt1">
+				<a href="../auftritte_2001_2/auftritte_2001_2.php">Florida &ndash; Mars Music</a>
+			</td>
+		</tr>
+		<tr class="bggrau">
+			<td width="125" class="inhalt1">
+				2001
+			</td>
+			<td width="375" class="inhalt1">
+				<a href="../auftritte_2001_1/auftritte_2001_1.php">Buchen &ndash; BGB Schulfest</a>
+			</td>
+		</tr>
+	</table>
+	<br />
+	
+<!-- Live MP3s -->
+	<h2>Live-MP3s</h2>
+	<p class="inhalt1">
+		Einfach mit der rechten Maustaste auf den Song klicken und "Ziel speichern unter" ausw&auml;hlen.
+	</p>
+	<p class="inhalt1">
+		Die Studio-Aufnahmen kannst in unserem&nbsp;&nbsp;<a href="../shop/shop.php" target="_self">Online-Shop</a>&nbsp;&nbsp;kaufen (nat&uuml;rlich nicht zum Weiterverteilen).
+		Und vergiss nicht, dich im&nbsp;&nbsp;<a href="../news/newsletter/newsletter.php" target="_self">Newsletter</a>&nbsp;&nbsp;einzutragen, wenn du alles rund
+		um&nbsp;&nbsp;<a href="../auftritte/auftritte.php" target="_self">Auftritte</a>&nbsp;&nbsp;&amp; Co. sofort wissen willst.
+	</p>
+	<br />
+	<table border="0" cellspacing="0" cellpadding="0">
+<!-- 2005-09-24, Adelsheim -->
+		<tr>
+			<td width="125" class="inhalt1">
+				<a href="../auftritte_2005-09-24/auftritte_2005-09-24.php"><img alt="Bild vom Auftritt in Adelsheimt am 2005-09-24" src="../auftritte_2005-09-24/auftritte_2005-09-24_42_125.jpg" width="125" border="0" /></a>
+			</td>
+			<td width="375" style="padding-left:10px" class="inhalt1">
+				<h2 style="padding-left:10px">2005-09-24, Adelsheim</h2>
+				<ul>
+					<li>
+						<a href="../auftritte_2005-09-24/DarkRain_Adelsheim_hate-you.mp3" target="_self">Hate you</a>
+					</li>
+					<li>
+						<a href="../auftritte_2005-09-24/DarkRain_Adelsheim_the-lie.mp3" target="_self">The lie</a>
+					</li>
+					<li>
+						<a href="../auftritte_2005-09-24/DarkRain_Adelsheim_strassenkinderlied-2.mp3" target="_self">Stra&szlig;enkinderlied 2</a>
+					</li>
+					<li>
+						<a href="../auftritte_2005-09-24/DarkRain_Adelsheim_i-wish.mp3" target="_self">I wish</a>
+					</li>
+					<li>
+						<a href="../auftritte_2005-09-24/DarkRain_Adelsheim_are-you-really-loving-me.mp3" target="_self">Are you really loving me?</a>
+					</li>
+				</ul>
+				<br /><br />
+			</td>
+		</tr>	
+<!-- 2005-07-20, M�nchen -->
+		<tr>
+			<td width="125" class="inhalt1">
+				<a href="../auftritte_2005-07-20/auftritte_2005-07-20.php"><img alt="Bild vom Auftritt in M&uuml;nchen am 2005-07-20" src="../auftritte_2005-07-20/auftritte_2005-07-20_17_125.jpg" width="125" border="0" /></a>
+			</td>
+			<td width="375" style="padding-left:10px" class="inhalt1">
+				<h2 style="padding-left:10px">2005-07-20, M&uuml;nchen</h2>
+				<ul>
+					<li>
+						<a href="../auftritte_2005-07-20/01_DarkRain_Live_in_Muenchen_Vampire.mp3" target="_self">Vampire song</a>
+					</li>
+					<li>
+						<a href="../auftritte_2005-07-20/02_DarkRain_Live_in_Muenchen_Fight.mp3" target="_self">Fight</a>
+					</li>
+					<li>
+						<a href="../auftritte_2005-07-20/03_DarkRain_Live_in_Muenchen_SeeYouAgain.mp3" target="_self">See you again</a>
+					</li>
+					<li>
+						<a href="../auftritte_2005-07-20/04_DarkRain_Live_in_Muenchen_BeMe.mp3" target="_self">Be me</a>
+					</li>
+					<li>
+						<a href="../auftritte_2005-07-20/05_DarkRain_Live_in_Muenchen_NotComingBack-AKK.mp3" target="_self">Not coming back to you (Akustik)</a>
+					</li>
+					<li>
+						<a href="../auftritte_2005-07-20/06_DarkRain_Live_in_Muenchen_Strassenkinderlied2.mp3" target="_self">Stra&szlig;enkinderlied 2</a>
+					</li>
+					<li>
+						<a href="../auftritte_2005-07-20/07_DarkRain_Live_in_Muenchen_AreYouReallyLovinMe.mp3" target="_self">Are you really loving me? (Remix)</a>
+					</li>
+				</ul>
+				<br /><br />
+			</td>
+		</tr>
+<!-- 2005-05-27, Stuttgart -->
+		<tr>
+			<td width="125" class="inhalt1">
+				<a href="../auftritte_2005-05-27/auftritte_2005-05-27.php"><img alt="Bild vom Auftritt in Stuttgart am 2005-05-27" src="../auftritte_2005-05-27/auftritte_2005-05-27_18_125.jpg" width="125" border="0" /></a>
+			</td>
+			<td width="375" style="padding-left:10px" class="inhalt1">
+				<h2 style="padding-left:10px">2005-05-27, Stuttgart</h2>
+				<ul>
+					<li>
+						<a href="../auftritte_2005-05-27/DarkRain_LKA-Stuttgart_1-VampireSong.mp3" target="_self">Vampire song</a>
+					</li>
+					<li>
+						<a href="../auftritte_2005-05-27/DarkRain_LKA-Stuttgart_2-Outsider.mp3" target="_self">Outsider</a>
+					</li>
+					<li>
+						<a href="../auftritte_2005-05-27/DarkRain_LKA-Stuttgart_3-HateYou.mp3" target="_self">Hate you</a>
+					</li>
+					<li>
+						<a href="../auftritte_2005-05-27/DarkRain_LKA-Stuttgart_4-SeeYouAgain.mp3" target="_self">See you again</a>
+					</li>
+					<li>
+						<a href="../auftritte_2005-05-27/DarkRain_LKA-Stuttgart_5-Strassenkinderlied2.mp3" target="_self">Stra&szlig;enkinderlied 2</a>
+					</li>
+					<li>
+						<a href="../auftritte_2005-05-27/DarkRain_LKA-Stuttgart_6-IWish.mp3" target="_self">I wish</a>
+					</li>
+				</ul>
+				<br /><br />
+			</td>
+		</tr>
+<!-- 2004-05-30, Adelsheim -->
+		<tr>
+			<td width="125" class="inhalt1">
+				<a href="../auftritte_2004-05-30/auftritte_2004-05-30.php"><img alt="Bild vom Auftritt in Adelsheim am 2004-05-30" src="../auftritte_2004-05-30/auftritte_2004-05-30_2_125.jpg" width="125" border="0" /></a>
+			</td>
+			<td width="375" style="padding-left:10px" class="inhalt1">
+				<h2 style="padding-left:10px">2004-05-30, Adelsheim</h2>
+				<ul>
+					<li>
+						<a href="../auftritte_2004-05-30/DarkRain_Are-you-really-lovin-me-ReMIX_live.mp3" target="_self">Are you really loving me? (Remix)</a>
+					</li>
+					<li>
+						<a href="../auftritte_2004-05-30/DarkRain_Not-coming-back-to-you_live.mp3" target="_self">Not coming back to you</a>
+					</li>
+					<li>
+						<a href="../auftritte_2004-05-30/DarkRain_The-Lie_live.mp3" target="_self">The lie</a>
+					</li>
+				</ul>
+				<br /><br />
+			</td>
+		</tr>
+	</table>
+	<br />
+
+<?php include '../../include/footer.php'; ?>

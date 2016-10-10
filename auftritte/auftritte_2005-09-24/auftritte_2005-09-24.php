@@ -1,0 +1,123 @@
+<?php include '../../include/head1.php'; ?>
+	<title>Dark Rain - die offizielle Homepage</title>
+<?php include '../../include/head2.php'; ?>
+
+	<p class="titel">Adelsheim &ndash; Live mit Lost Eden</p>
+	<table border="0" cellspacing="0" cellpadding="0">
+		<tr>
+			<td width="500" class="inhalt1" align="center">
+				<a href="javascript:zoom800x600('auftritte_2005-09-24_1.jpg')" target="_self"><img alt="Adelsheim &ndash; Live mit Lost Eden" src="auftritte_2005-09-24_1_min.jpg" border="0" vspace="5" hspace="5" /></a>
+				<a href="javascript:zoom800x600('auftritte_2005-09-24_2.jpg')" target="_self"><img alt="Adelsheim &ndash; Live mit Lost Eden" src="auftritte_2005-09-24_2_min.jpg" border="0" vspace="5" hspace="5" /></a>
+				<a href="javascript:zoom800x600('auftritte_2005-09-24_3.jpg')" target="_self"><img alt="Adelsheim &ndash; Live mit Lost Eden" src="auftritte_2005-09-24_3_min.jpg" border="0" vspace="5" hspace="5" /></a>
+				<a href="javascript:zoom800x600('auftritte_2005-09-24_4.jpg')" target="_self"><img alt="Adelsheim &ndash; Live mit Lost Eden" src="auftritte_2005-09-24_4_min.jpg" border="0" vspace="5" hspace="5" /></a>
+			</td>
+		</tr>
+		<tr>
+			<td width="500" class="inhalt1" align="center">
+				<a href="javascript:zoom800x600('auftritte_2005-09-24_5.jpg')" target="_self"><img alt="Adelsheim &ndash; Live mit Lost Eden" src="auftritte_2005-09-24_5_min.jpg" border="0" vspace="5" hspace="5" /></a>
+				<a href="javascript:zoom800x600('auftritte_2005-09-24_6.jpg')" target="_self"><img alt="Adelsheim &ndash; Live mit Lost Eden" src="auftritte_2005-09-24_6_min.jpg" border="0" vspace="5" hspace="5" /></a>
+				<a href="javascript:zoom800x600('auftritte_2005-09-24_7.jpg')" target="_self"><img alt="Adelsheim &ndash; Live mit Lost Eden" src="auftritte_2005-09-24_7_min.jpg" border="0" vspace="5" hspace="5" /></a>
+			</td>
+		</tr>
+		<tr>
+			<td width="500" class="inhalt1" align="center">
+				<a href="javascript:zoom800x600('auftritte_2005-09-24_8.jpg')" target="_self"><img alt="Adelsheim &ndash; Live mit Lost Eden" src="auftritte_2005-09-24_8_min.jpg" border="0" vspace="5" hspace="5" /></a>
+				<a href="javascript:zoom800x600('auftritte_2005-09-24_9.jpg')" target="_self"><img alt="Adelsheim &ndash; Live mit Lost Eden" src="auftritte_2005-09-24_9_min.jpg" border="0" vspace="5" hspace="5" /></a>
+				<a href="javascript:zoom800x600('auftritte_2005-09-24_10.jpg')" target="_self"><img alt="Adelsheim &ndash; Live mit Lost Eden" src="auftritte_2005-09-24_10_min.jpg" border="0" vspace="5" hspace="5" /></a>
+				<a href="javascript:zoom800x600('auftritte_2005-09-24_11.jpg')" target="_self"><img alt="Adelsheim &ndash; Live mit Lost Eden" src="auftritte_2005-09-24_11_min.jpg" border="0" vspace="5" hspace="5" /></a>
+			</td>
+		</tr>
+		<tr>
+			<td width="500" class="inhalt1" align="center">
+				<a href="javascript:zoom800x600('auftritte_2005-09-24_12.jpg')" target="_self"><img alt="Adelsheim &ndash; Live mit Lost Eden" src="auftritte_2005-09-24_12_min.jpg" border="0" vspace="5" hspace="5" /></a>
+				<a href="javascript:zoom800x600('auftritte_2005-09-24_13.jpg')" target="_self"><img alt="Adelsheim &ndash; Live mit Lost Eden" src="auftritte_2005-09-24_13_min.jpg" border="0" vspace="5" hspace="5" /></a>
+				<a href="javascript:zoom800x600('auftritte_2005-09-24_14.jpg')" target="_self"><img alt="Adelsheim &ndash; Live mit Lost Eden" src="auftritte_2005-09-24_14_min.jpg" border="0" vspace="5" hspace="5" /></a>
+			</td>
+		</tr>
+		<tr>
+			<td width="500" class="inhalt1" align="center">
+				<a href="javascript:zoom800x600('auftritte_2005-09-24_15.jpg')" target="_self"><img alt="Adelsheim &ndash; Live mit Lost Eden" src="auftritte_2005-09-24_15_min.jpg" border="0" vspace="5" hspace="5" /></a>
+				<a href="javascript:zoom800x600('auftritte_2005-09-24_16.jpg')" target="_self"><img alt="Adelsheim &ndash; Live mit Lost Eden" src="auftritte_2005-09-24_16_min.jpg" border="0" vspace="5" hspace="5" /></a>
+			</td>
+		</tr>
+		<tr>
+			<td width="500" class="inhalt1" align="center">
+				<a href="javascript:zoom800x600('auftritte_2005-09-24_17.jpg')" target="_self"><img alt="Adelsheim &ndash; Live mit Lost Eden" src="auftritte_2005-09-24_17_min.jpg" border="0" vspace="5" hspace="5" /></a>
+				<a href="javascript:zoom800x600('auftritte_2005-09-24_18.jpg')" target="_self"><img alt="Adelsheim &ndash; Live mit Lost Eden" src="auftritte_2005-09-24_18_min.jpg" border="0" vspace="5" hspace="5" /></a>
+				<a href="javascript:zoom800x600('auftritte_2005-09-24_19.jpg')" target="_self"><img alt="Adelsheim &ndash; Live mit Lost Eden" src="auftritte_2005-09-24_19_min.jpg" border="0" vspace="5" hspace="5" /></a>
+			</td>
+		</tr>
+		<tr>
+			<td width="500" class="inhalt1" align="center">
+				<a href="javascript:zoom800x600('auftritte_2005-09-24_20.jpg')" target="_self"><img alt="Adelsheim &ndash; Live mit Lost Eden" src="auftritte_2005-09-24_20_min.jpg" border="0" vspace="5" hspace="5" /></a>
+				<a href="javascript:zoom800x600('auftritte_2005-09-24_21.jpg')" target="_self"><img alt="Adelsheim &ndash; Live mit Lost Eden" src="auftritte_2005-09-24_21_min.jpg" border="0" vspace="5" hspace="5" /></a>
+				<a href="javascript:zoom800x600('auftritte_2005-09-24_22.jpg')" target="_self"><img alt="Adelsheim &ndash; Live mit Lost Eden" src="auftritte_2005-09-24_22_min.jpg" border="0" vspace="5" hspace="5" /></a>
+				<a href="javascript:zoom800x600('auftritte_2005-09-24_23.jpg')" target="_self"><img alt="Adelsheim &ndash; Live mit Lost Eden" src="auftritte_2005-09-24_23_min.jpg" border="0" vspace="5" hspace="5" /></a>
+			</td>
+		</tr>
+		<tr>
+			<td width="500" class="inhalt1" align="center">
+				<a href="javascript:zoom800x600('auftritte_2005-09-24_24.jpg')" target="_self"><img alt="Adelsheim &ndash; Live mit Lost Eden" src="auftritte_2005-09-24_24_min.jpg" border="0" vspace="5" hspace="5" /></a>
+				<a href="javascript:zoom800x600('auftritte_2005-09-24_25.jpg')" target="_self"><img alt="Adelsheim &ndash; Live mit Lost Eden" src="auftritte_2005-09-24_25_min.jpg" border="0" vspace="5" hspace="5" /></a>
+				<a href="javascript:zoom800x600('auftritte_2005-09-24_26.jpg')" target="_self"><img alt="Adelsheim &ndash; Live mit Lost Eden" src="auftritte_2005-09-24_26_min.jpg" border="0" vspace="5" hspace="5" /></a>
+			</td>
+		</tr>
+		<tr>
+			<td width="500" class="inhalt1" align="center">
+				<a href="javascript:zoom800x600('auftritte_2005-09-24_27.jpg')" target="_self"><img alt="Adelsheim &ndash; Live mit Lost Eden" src="auftritte_2005-09-24_27_min.jpg" border="0" vspace="5" hspace="5" /></a>
+				<a href="javascript:zoom800x600('auftritte_2005-09-24_28.jpg')" target="_self"><img alt="Adelsheim &ndash; Live mit Lost Eden" src="auftritte_2005-09-24_28_min.jpg" border="0" vspace="5" hspace="5" /></a>
+				<a href="javascript:zoom800x600('auftritte_2005-09-24_29.jpg')" target="_self"><img alt="Adelsheim &ndash; Live mit Lost Eden" src="auftritte_2005-09-24_29_min.jpg" border="0" vspace="5" hspace="5" /></a>
+				<a href="javascript:zoom800x600('auftritte_2005-09-24_30.jpg')" target="_self"><img alt="Adelsheim &ndash; Live mit Lost Eden" src="auftritte_2005-09-24_30_min.jpg" border="0" vspace="5" hspace="5" /></a>
+			</td>
+		</tr>
+		<tr>
+			<td width="500" class="inhalt1" align="center">
+				<a href="javascript:zoom800x600('auftritte_2005-09-24_31.jpg')" target="_self"><img alt="Adelsheim &ndash; Live mit Lost Eden" src="auftritte_2005-09-24_31_min.jpg" border="0" vspace="5" hspace="5" /></a>
+				<a href="javascript:zoom800x600('auftritte_2005-09-24_32.jpg')" target="_self"><img alt="Adelsheim &ndash; Live mit Lost Eden" src="auftritte_2005-09-24_32_min.jpg" border="0" vspace="5" hspace="5" /></a>
+				<a href="javascript:zoom800x600('auftritte_2005-09-24_33.jpg')" target="_self"><img alt="Adelsheim &ndash; Live mit Lost Eden" src="auftritte_2005-09-24_33_min.jpg" border="0" vspace="5" hspace="5" /></a>
+			</td>
+		</tr>
+		<tr>
+			<td width="500" class="inhalt1" align="center">
+				<a href="javascript:zoom800x600('auftritte_2005-09-24_34.jpg')" target="_self"><img alt="Adelsheim &ndash; Live mit Lost Eden" src="auftritte_2005-09-24_34_min.jpg" border="0" vspace="5" hspace="5" /></a>
+				<a href="javascript:zoom800x600('auftritte_2005-09-24_35.jpg')" target="_self"><img alt="Adelsheim &ndash; Live mit Lost Eden" src="auftritte_2005-09-24_35_min.jpg" border="0" vspace="5" hspace="5" /></a>
+				<a href="javascript:zoom800x600('auftritte_2005-09-24_36.jpg')" target="_self"><img alt="Adelsheim &ndash; Live mit Lost Eden" src="auftritte_2005-09-24_36_min.jpg" border="0" vspace="5" hspace="5" /></a>
+				<a href="javascript:zoom800x600('auftritte_2005-09-24_37.jpg')" target="_self"><img alt="Adelsheim &ndash; Live mit Lost Eden" src="auftritte_2005-09-24_37_min.jpg" border="0" vspace="5" hspace="5" /></a>
+			</td>
+		</tr>
+		<tr>
+			<td width="500" class="inhalt1" align="center">
+				<a href="javascript:zoom800x600('auftritte_2005-09-24_38.jpg')" target="_self"><img alt="Adelsheim &ndash; Live mit Lost Eden" src="auftritte_2005-09-24_38_min.jpg" border="0" vspace="5" hspace="5" /></a>
+				<a href="javascript:zoom800x600('auftritte_2005-09-24_39.jpg')" target="_self"><img alt="Adelsheim &ndash; Live mit Lost Eden" src="auftritte_2005-09-24_39_min.jpg" border="0" vspace="5" hspace="5" /></a>
+				<a href="javascript:zoom800x600('auftritte_2005-09-24_40.jpg')" target="_self"><img alt="Adelsheim &ndash; Live mit Lost Eden" src="auftritte_2005-09-24_40_min.jpg" border="0" vspace="5" hspace="5" /></a>
+			</td>
+		</tr>
+		<tr>
+			<td width="500" class="inhalt1" align="center">
+				<a href="javascript:zoom800x600('auftritte_2005-09-24_41.jpg')" target="_self"><img alt="Adelsheim &ndash; Live mit Lost Eden" src="auftritte_2005-09-24_41_min.jpg" border="0" vspace="5" hspace="5" /></a>
+				<a href="javascript:zoom800x600('auftritte_2005-09-24_42.jpg')" target="_self"><img alt="Adelsheim &ndash; Live mit Lost Eden" src="auftritte_2005-09-24_42_min.jpg" border="0" vspace="5" hspace="5" /></a>
+				<a href="javascript:zoom800x600('auftritte_2005-09-24_43.jpg')" target="_self"><img alt="Adelsheim &ndash; Live mit Lost Eden" src="auftritte_2005-09-24_43_min.jpg" border="0" vspace="5" hspace="5" /></a>
+			</td>
+		</tr>
+		<tr>
+			<td width="500" class="inhalt1" align="center">
+				<a href="javascript:zoom800x600('auftritte_2005-09-24_44.jpg')" target="_self"><img alt="Adelsheim &ndash; Live mit Lost Eden" src="auftritte_2005-09-24_44_min.jpg" border="0" vspace="5" hspace="5" /></a>
+				<a href="javascript:zoom800x600('auftritte_2005-09-24_45.jpg')" target="_self"><img alt="Adelsheim &ndash; Live mit Lost Eden" src="auftritte_2005-09-24_45_min.jpg" border="0" vspace="5" hspace="5" /></a>
+				<a href="javascript:zoom800x600('auftritte_2005-09-24_46.jpg')" target="_self"><img alt="Adelsheim &ndash; Live mit Lost Eden" src="auftritte_2005-09-24_46_min.jpg" border="0" vspace="5" hspace="5" /></a>
+			</td>
+		</tr>
+		<tr>
+			<td width="500" class="inhalt1" align="center">
+				<a href="javascript:zoom800x600('auftritte_2005-09-24_47.jpg')" target="_self"><img alt="Adelsheim &ndash; Live mit Lost Eden" src="auftritte_2005-09-24_47_min.jpg" border="0" vspace="5" hspace="5" /></a>
+				<a href="javascript:zoom800x600('auftritte_2005-09-24_48.jpg')" target="_self"><img alt="Adelsheim &ndash; Live mit Lost Eden" src="auftritte_2005-09-24_48_min.jpg" border="0" vspace="5" hspace="5" /></a>
+				<a href="javascript:zoom800x600('auftritte_2005-09-24_49.jpg')" target="_self"><img alt="Adelsheim &ndash; Live mit Lost Eden" src="auftritte_2005-09-24_49_min.jpg" border="0" vspace="5" hspace="5" /></a>
+				<a href="javascript:zoom800x600('auftritte_2005-09-24_50.jpg')" target="_self"><img alt="Adelsheim &ndash; Live mit Lost Eden" src="auftritte_2005-09-24_50_min.jpg" border="0" vspace="5" hspace="5" /></a>
+			</td>
+		</tr>
+	</table>
+	<p class="inhalt1" align="center">
+		<br />
+		<a href="javascript:history.back();">&laquo; zur&uuml;ck</a>
+	</p>
+
+<?php include '../../include/footer.php'; ?>

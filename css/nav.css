@@ -1,0 +1,62 @@
+body  {
+	font-family:Verdana,Arial,sans-serif; 
+	color:#C0C0C0;
+	padding-right:25px;
+	background-color : black;
+	scrollbar-base-color: rgb(0, 0, 0);
+	scrollbar-arrow-color:rgb(0, 102, 204);
+	scrollbar-darkshadow-color:rgb(0, 0, 0);
+	scrollbar-face-color:rgb(0, 0, 0);
+	scrollbar-highlight-color:rgb(153, 153, 153);
+	scrollbar-shadow-color:rgb(153, 153, 153);
+	scrollbar-track-color:rgb(0, 0, 0);
+}
+
+a:link  {
+	font-family: Arial, Helvetica, sans-serif;
+	text-decoration : none;
+	color: rgb(153, 153, 153);
+	font-weight: bold;
+}
+
+a:visited  {
+	font-family: Arial, Helvetica, sans-serif;
+	text-decoration : none;
+	color: rgb(153, 153, 153);
+	font-weight: bold;	
+}
+
+a:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	color: rgb(204, 204, 204);
+	font-weight: bold;	
+}
+
+a:active {
+	font-family: Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	color: rgb(0, 102, 204);
+	font-weight: bold;	
+}
+
+.nav1 {
+	font-size: 14px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: rgb(153, 153, 153);
+	font-weight: bold;
+	line-height: 22px;
+}
+
+.nav2 {
+	font-size: 12px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: rgb(153, 153, 153);
+	font-weight: bold;
+	line-height: 18px;
+}
+
+.titel {
+	font-size: 32px;
+	font-family: Georgia, Arial, Helvetica, sans-serif;
+	color: rgb(0, 153, 204);
+}

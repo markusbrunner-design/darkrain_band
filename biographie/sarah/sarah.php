@@ -1,0 +1,100 @@
+<?php include '../../include/head1.php'; ?>
+	<title>Dark Rain - Biographie Sarah</title>
+<?php include '../../include/head2.php'; ?>
+
+
+	<h1>Sarah Pfannenschwarz</h1>
+	<img alt="Bild von S&auml;ngerin Sarah" src="../../multimedia/bilder/promotion/promotion_2003/promotion_2003_2.jpg" width="250" align="middle" border="0" />
+	<table border="0" cellspacing="0" cellpadding="0">
+		<tr class="bggrau">
+			<td width="125" class="inhalt1bold">Geboren:</td>
+			<td width="375" class="inhalt1">1985-05-06</td>
+		</tr>
+		<tr>
+			<td width="125" class="inhalt1bold">Sternzeichen:</td>
+			<td width="375" class="inhalt1">Stier</td>
+		</tr>
+		<tr class="bggrau">
+			<td width="125" class="inhalt1bold">Gr&ouml;&szlig;e:</td>
+			<td width="375" class="inhalt1">1,75 m</td>
+		</tr>
+		<tr>
+			<td width="125" class="inhalt1bold">Augenfarbe:</td>
+			<td width="375" class="inhalt1">schokoladenbraun</td>
+		</tr>
+		<tr class="bggrau">
+			<td width="125" class="inhalt1bold">Haarfarbe: </td>
+			<td width="375" class="inhalt1">nach einem Unfall rot &ndash; schwarz</td>
+		</tr>
+		<tr>
+			<td width="125" class="inhalt1bold">Ich Bewundere:</td>
+			<td width="375" class="inhalt1">meine Eltern, gro&szlig;e Taten, begabte Zeichner, Tarja Turunen</td>
+		</tr>
+		<tr class="bggrau">
+			<td width="125" class="inhalt1bold">Ich mag:</td>
+			<td width="375" class="inhalt1">Meinen Familie, nette, liebe, ehrliche Menschen, mein zu Hause, Kirchen, Kerzen, Lack, Engel, gute Unterhaltung, Rosen, Schokolade, gutes Essen</td>
+		</tr>
+		<tr>
+			<td width="125" class="inhalt1bold">Ich hasse:</td>
+			<td width="375" class="inhalt1">Insekten allgemein, Hypochonda, Leute, die nicht lachen k&ouml;nnen, Leute, die Andere nieder machen, um sich selbst zu erh&ouml;hen, Unehrlichkeit, Angeber, Wortbrecher</td>
+		</tr>
+		<tr class="bggrau">
+			<td width="125" class="inhalt1bold">Lieblingsfarbe:</td>
+			<td width="375" class="inhalt1">Von Rot bis Lila und Schwarz, Silber und Chrom</td>
+		</tr>
+		<tr>
+			<td width="125" class="inhalt1bold">Lieblingsessen:</td>
+			<td width="375" class="inhalt1">Sushi, Kartoffelsuppe, -salat, Tofu, Nudeln mit Sauce, M&uuml;sli, &Auml;pfel</td>
+		</tr>
+		<tr class="bggrau">
+			<td width="125" class="inhalt1bold">Lieblingsgetr&auml;nke:</td>
+			<td width="375" class="inhalt1">Apfelsaftschorle, Ginger Ale, klares Wasser mit allen m&ouml;glichen Geschmacksrichtungen, ab und zu ein Glas mit gutem Rotwein</td>
+		</tr>
+		<tr>
+			<td width="125" class="inhalt1bold">Lieblingsfilme:</td>
+			<td width="375" class="inhalt1">Herr der Ringe 1 bis 3, Fluch der Karibik, Fabelhafte Welt der Ameli&eacute;, American History X, Troja, Edward mit den Scherenh&auml;nden, Equilibrium</td>
+		</tr>
+		<tr class="bggrau">
+			<td width="125" class="inhalt1bold">Lieblingsbuch:</td>
+			<td width="375" class="inhalt1">Lustiges Taschenbuch</td>
+		</tr>
+		<tr>
+			<td width="125" class="inhalt1bold">Lieblingsbands:</td>
+			<td width="375" class="inhalt1">Nightwish,The Ataris, Manson, KoRn, Killswitch Engage, Skunk Anansie, A.F.I., Soilwork, Black Label Society, Boysetsfire, MyBalloon, Angelzoom, Soundtracks</td>
+		</tr>
+		<tr class="bggrau">
+			<td width="125" class="inhalt1bold">Haustiere:</td>
+			<td width="375" class="inhalt1">Scarlet, meine allerliebste und beste und tollste Ratte, die es auf der Welt gibt</td>
+		</tr>
+		<tr>
+			<td width="125" class="inhalt1bold">Hobbies:</td>
+			<td width="375" class="inhalt1">Musik machen, singen, kochen, H&auml;user entwerfen, malen, shoppen, Fantasy-Rollenspiele, abtanzen</td>
+		</tr>
+		<tr class="bggrau">
+			<td width="125" class="inhalt1bold">Ich kann:</td>
+			<td width="375" class="inhalt1">singen, organisieren, ganz sch&ouml;n sarkastisch sein ( schwarzer Humor), gute Laune verbreiten</td>
+		</tr>
+		<tr>
+			<td width="125" class="inhalt1bold">Ich kann nicht:</td>
+			<td width="375" class="inhalt1">Ordnung halten, aufpassen ,dass ich keine blauen Flecken bekommen, aufh&ouml;ren ein schlechter Beifahrer zu sein</td>
+		</tr>
+		<tr class="bggrau">
+			<td width="125" class="inhalt1bold">Davon bin ich Fan:</td>
+			<td width="375" class="inhalt1">Viva Maria, Luis Royo, Emily the strange, Wei&szlig;kreuz, Sanctuary Angel, Amy Brown</td>
+		</tr>
+		<tr>
+			<td width="125" class="inhalt1bold">Reiseziel:</td>
+			<td width="375" class="inhalt1">Orient, Asien, Hawaii, Neuseeland (nur im Sommer)</td>
+		</tr>
+		<tr class="bggrau">
+			<td width="125" class="inhalt1bold"></td>
+			<td width="375" class="lyrics">Sarah</td>
+		</tr>
+	</table>
+	<p class="inhalt1" align="center">
+		<br />
+		<a href="../biographie.php">&laquo; zur&uuml;ck</a>
+	</p>
+
+
+<?php include '../../include/footer.php'; ?>

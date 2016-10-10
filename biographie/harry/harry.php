@@ -1,0 +1,100 @@
+<?php include '../../include/head1.php'; ?>
+	<title>Dark Rain - Biographie Harry</title>
+<?php include '../../include/head2.php'; ?>
+
+
+	<h1>Harry Pfannenschwarz</h1>
+	<img alt="Bild von Schlagzeuger Harry" src="../../multimedia/bilder/promotion/promotion_2003/promotion_2003_1.jpg" width="250" align="middle" border="0" />
+	<table border="0" cellspacing="0" cellpadding="0">
+		<tr class="bggrau">
+			<td width="125" class="inhalt1bold">Geboren:</td>
+			<td width="375" class="inhalt1">1986-11-14 in Bad-Mergentheim</td>
+		</tr>
+		<tr>
+			<td width="125" class="inhalt1bold">Sternzeichen:</td>
+			<td width="375" class="inhalt1">Skorpion</td>
+		</tr>
+		<tr class="bggrau">
+			<td width="125" class="inhalt1bold">Gr&ouml;&szlig;e:</td>
+			<td width="375" class="inhalt1">1,90 m</td>
+		</tr>
+		<tr>
+			<td width="125" class="inhalt1bold">Augenfarbe:</td>
+			<td width="375" class="inhalt1">blau</td>
+		</tr>
+		<tr class="bggrau">
+			<td width="125" class="inhalt1bold">Haarfarbe: </td>
+			<td width="375" class="inhalt1">Schwarz, wird aber immer mehr Pink, Rot und Lila</td>
+		</tr>
+		<tr>
+			<td width="125" class="inhalt1bold">Ich Bewundere:</td>
+			<td width="375" class="inhalt1">&ndash;</td>
+		</tr>
+		<tr class="bggrau">
+			<td width="125" class="inhalt1bold">Ich mag:</td>
+			<td width="375" class="inhalt1">Singen, Lesen, meine Ruhe ...</td>
+		</tr>
+		<tr>
+			<td width="125" class="inhalt1bold">Ich hasse:</td>
+			<td width="375" class="inhalt1">Leute die andere aus Dummheit kritisieren nur weil sie sich nicht die M&uuml;he machen sich mit jenen Themen zu besch&auml;ftigen, Kirchen die versuchen Leute von ihrem Glauben abzubringen, nur weil es nicht in deren Weltbild passt.</td>
+		</tr>
+		<tr class="bggrau">
+			<td width="125" class="inhalt1bold">Lieblingsfarbe:</td>
+			<td width="375" class="inhalt1">Schwarz, pink</td>
+		</tr>
+		<tr>
+			<td width="125" class="inhalt1bold">Lieblingsessen:</td>
+			<td width="375" class="inhalt1">Ich esse nichts aus dem Wasser, keine Pilze...</td>
+		</tr>
+		<tr class="bggrau">
+			<td width="125" class="inhalt1bold">Lieblingsgetr&auml;nke:</td>
+			<td width="375" class="inhalt1">Kirschsaft</td>
+		</tr>
+		<tr>
+			<td width="125" class="inhalt1bold">Lieblingsfilme:</td>
+			<td width="375" class="inhalt1">Boys don´t cry, Bitters&uuml;&szlig;er Tod, Cube, Das Baumhaus.</td>
+		</tr>
+		<tr class="bggrau">
+			<td width="125" class="inhalt1bold">Lieblingsbuch:</td>
+			<td width="375" class="inhalt1">Leben nach dem Tod (Dr.Ross) B&uuml;cher die den Tod oder Psyche behandeln ...</td>
+		</tr>
+		<tr>
+			<td width="125" class="inhalt1bold">Lieblingsbands:</td>
+			<td width="375" class="inhalt1">Placebo, H.I.M., Rosenstolz, Lady bloody Mary, more unknown artists</td>
+		</tr>
+		<tr class="bggrau">
+			<td width="125" class="inhalt1bold">Haustiere:</td>
+			<td width="375" class="inhalt1">&ndash;</td>
+		</tr>
+		<tr>
+			<td width="125" class="inhalt1bold">Hobbies:</td>
+			<td width="375" class="inhalt1">WoW spielen, schminken.</td>
+		</tr>
+		<tr class="bggrau">
+			<td width="125" class="inhalt1bold">Ich kann:</td>
+			<td width="375" class="inhalt1">Diva &larr; kann alles *g*</td>
+		</tr>
+		<tr>
+			<td width="125" class="inhalt1bold">Ich kann nicht:</td>
+			<td width="375" class="inhalt1">Verstehen warum Menschen in ein Loch solcher Idiotie fallen k&ouml;nnen und es nicht mal merken.</td>
+		</tr>
+		<tr class="bggrau">
+			<td width="125" class="inhalt1bold">Davon bin ich Fan:</td>
+			<td width="375" class="inhalt1">Gothic, ausgefallene Moden</td>
+		</tr>
+		<tr>
+			<td width="125" class="inhalt1bold">Reiseziel:</td>
+			<td width="375" class="inhalt1">Weglaufen macht es auch nicht besser.</td>
+		</tr>
+		<tr class="bggrau">
+			<td width="125" class="inhalt1bold"></td>
+			<td width="375" class="lyrics">Marry</td>
+		</tr>
+	</table>
+	<p class="inhalt1" align="center">
+		<br />
+		<a href="../biographie.php">&laquo; zur&uuml;ck</a>
+	</p>
+
+
+<?php include '../../include/footer.php'; ?>

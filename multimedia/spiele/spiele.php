@@ -1,0 +1,9 @@
+<?php include '../../include/head1.php'; ?>
+	<title>Dark Rain - Multimedia Spiele</title>
+<?php include '../../include/head2.php'; ?>
+	
+<h1>Spiele</h1>
+
+<p>Es stehen leider noch keine Dateien zur Auswahl.</p>
+	
+<?php include '../../include/footer.php'; ?>

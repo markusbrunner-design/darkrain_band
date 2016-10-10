@@ -1,0 +1,100 @@
+<?php include '../../include/head1.php'; ?>
+	<title>Dark Rain - Biographie Katja</title>
+<?php include '../../include/head2.php'; ?>
+
+
+	<h1>Katja Deutschmann</h1>
+	<img alt="Bild von Bassistin Katja" src="../../multimedia/bilder/promotion/promotion_2005/promotion_2005_1.jpg" width="250" align="middle" border="0" />
+	<table border="0" cellspacing="0" cellpadding="0">
+		<tr class="bggrau">
+			<td width="125" class="inhalt1bold">Geboren:</td>
+			<td width="375" class="inhalt1">1984-03-02 in Halle (Saale)</td>
+		</tr>
+		<tr>
+			<td width="125" class="inhalt1bold">Sternzeichen:</td>
+			<td width="375" class="inhalt1">Fische</td>
+		</tr>
+		<tr class="bggrau">
+			<td width="125" class="inhalt1bold">Gr&ouml;&szlig;e:</td>
+			<td width="375" class="inhalt1">1,66 m</td>
+		</tr>
+		<tr>
+			<td width="125" class="inhalt1bold">Augenfarbe:</td>
+			<td width="375" class="inhalt1">gr&uuml;n</td>
+		</tr>
+		<tr class="bggrau">
+			<td width="125" class="inhalt1bold">Haarfarbe: </td>
+			<td width="375" class="inhalt1">schwarz &ndash; dunkelbraun</td>
+		</tr>
+		<tr>
+			<td width="125" class="inhalt1bold">Ich Bewundere:</td>
+			<td width="375" class="inhalt1">Tarja (Nightwish), John Myung (Dream Theater)</td>
+		</tr>
+		<tr class="bggrau">
+			<td width="125" class="inhalt1bold">Ich mag:</td>
+			<td width="375" class="inhalt1">zeichnen, lesen, Filme gucken, ausschlafen, kuscheln</td>
+		</tr>
+		<tr>
+			<td width="125" class="inhalt1bold">Ich hasse:</td>
+			<td width="375" class="inhalt1">Intoleranz, Dummheit, Wortbruch</td>
+		</tr>
+		<tr class="bggrau">
+			<td width="125" class="inhalt1bold">Lieblingsfarbe:</td>
+			<td width="375" class="inhalt1">blau, schwarz, rot</td>
+		</tr>
+		<tr>
+			<td width="125" class="inhalt1bold">Lieblingsessen:</td>
+			<td width="375" class="inhalt1">jegliche Art von Nudeln, am besten mit Käse überbacken</td>
+		</tr>
+		<tr class="bggrau">
+			<td width="125" class="inhalt1bold">Lieblingsgetr&auml;nke:</td>
+			<td width="375" class="inhalt1">&quot;Lebensfreude&quot;-Saft, Apfelsaftschorle, Spezi, Erdbeer-Colada</td>
+		</tr>
+		<tr>
+			<td width="125" class="inhalt1bold">Lieblingsfilme:</td>
+			<td width="375" class="inhalt1">Nackte Kanone, Hot Shots, Ace Ventura, Eine schöne Bescherung, Sieben, Schweigen der Lämmer, kurz gesagt: Komödien, Psychothriller, Horror</td>
+		</tr>
+		<tr class="bggrau">
+			<td width="125" class="inhalt1bold">Lieblingsbuch:</td>
+			<td width="375" class="inhalt1">Es, Needful Things (ich lese am liebsten Stephen King)</td>
+		</tr>
+		<tr>
+			<td width="125" class="inhalt1bold">Lieblingsbands:</td>
+			<td width="375" class="inhalt1">Nightwish, Smashing Pumpkins, Dream Theater, Apocalyptica, Within Temptation, Evanescence</td>
+		</tr>
+		<tr class="bggrau">
+			<td width="125" class="inhalt1bold">Haustiere:</td>
+			<td width="375" class="inhalt1">meine Meerschweinchen Io und Elara</td>
+		</tr>
+		<tr>
+			<td width="125" class="inhalt1bold">Hobbies:</td>
+			<td width="375" class="inhalt1">zeichnen, Musik machen</td>
+		</tr>
+		<tr class="bggrau">
+			<td width="125" class="inhalt1bold">Ich kann:</td>
+			<td width="375" class="inhalt1">anderen zuhören, rumgrummeln, für andere da sein, gut drauf sein und über alles lachen (wie Dr. Hibbert von den Simpsons)</td>
+		</tr>
+		<tr>
+			<td width="125" class="inhalt1bold">Ich kann nicht:</td>
+			<td width="375" class="inhalt1">singen, rückwärts einparken</td>
+		</tr>
+		<tr class="bggrau">
+			<td width="125" class="inhalt1bold">Davon bin ich Fan:</td>
+			<td width="375" class="inhalt1">Schokolade, Stephen King, Nightwish, Dark Rain ;)</td>
+		</tr>
+		<tr>
+			<td width="125" class="inhalt1bold">Reiseziel:</td>
+			<td width="375" class="inhalt1">egal, Hauptsache Sonne und Meer</td>
+		</tr>
+		<tr class="bggrau">
+			<td width="125" class="inhalt1bold"></td>
+			<td width="375" class="lyrics">Katja</td>
+		</tr>
+	</table>
+	<p class="inhalt1" align="center">
+		<br />
+		<a href="../biographie.php">&laquo; zur&uuml;ck</a>
+	</p>
+
+
+<?php include '../../include/footer.php'; ?>

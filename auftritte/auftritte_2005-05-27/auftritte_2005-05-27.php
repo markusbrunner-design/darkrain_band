@@ -1,0 +1,78 @@
+<?php include '../../include/head1.php'; ?>
+	<title>Dark Rain - die offizielle Homepage</title>
+<?php include '../../include/head2.php'; ?>
+
+	<p class="titel">Stuttgart &ndash; LKA-Youngsterball</p>
+	<table border="0" cellspacing="0" cellpadding="0">
+		<tr>
+			<td width="500" class="inhalt1" align="center">
+				<a href="javascript:zoom800x600('auftritte_2005-05-27_1.jpg')" target="_self"><img alt="Stuttgart &ndash; LKA-Youngsterball" src="auftritte_2005-05-27_1_min.jpg" border="0" vspace="5" hspace="5" /></a>
+				<a href="javascript:zoom800x600('auftritte_2005-05-27_2.jpg')" target="_self"><img alt="Stuttgart &ndash; LKA-Youngsterball" src="auftritte_2005-05-27_2_min.jpg" border="0" vspace="5" hspace="5" /></a>
+				<a href="javascript:zoom800x600('auftritte_2005-05-27_3.jpg')" target="_self"><img alt="Stuttgart &ndash; LKA-Youngsterball" src="auftritte_2005-05-27_3_min.jpg" border="0" vspace="5" hspace="5" /></a>
+				<a href="javascript:zoom800x600('auftritte_2005-05-27_4.jpg')" target="_self"><img alt="Stuttgart &ndash; LKA-Youngsterball" src="auftritte_2005-05-27_4_min.jpg" border="0" vspace="5" hspace="5" /></a>
+			</td>
+		</tr>
+		<tr>
+			<td width="500" class="inhalt1" align="center">
+				<a href="javascript:zoom800x600('auftritte_2005-05-27_5.jpg')" target="_self"><img alt="Stuttgart &ndash; LKA-Youngsterball" src="auftritte_2005-05-27_5_min.jpg" border="0" vspace="5" hspace="5" /></a>
+				<a href="javascript:zoom800x600('auftritte_2005-05-27_6.jpg')" target="_self"><img alt="Stuttgart &ndash; LKA-Youngsterball" src="auftritte_2005-05-27_6_min.jpg" border="0" vspace="5" hspace="5" /></a>
+				<a href="javascript:zoom800x600('auftritte_2005-05-27_7.jpg')" target="_self"><img alt="Stuttgart &ndash; LKA-Youngsterball" src="auftritte_2005-05-27_7_min.jpg" border="0" vspace="5" hspace="5" /></a>
+			</td>
+		</tr>
+		<tr>
+			<td width="500" class="inhalt1" align="center">
+				<a href="javascript:zoom800x600('auftritte_2005-05-27_8.jpg')" target="_self"><img alt="Stuttgart &ndash; LKA-Youngsterball" src="auftritte_2005-05-27_8_min.jpg" border="0" vspace="5" hspace="5" /></a>
+				<a href="javascript:zoom800x600('auftritte_2005-05-27_9.jpg')" target="_self"><img alt="Stuttgart &ndash; LKA-Youngsterball" src="auftritte_2005-05-27_9_min.jpg" border="0" vspace="5" hspace="5" /></a>
+				<a href="javascript:zoom800x600('auftritte_2005-05-27_10.jpg')" target="_self"><img alt="Stuttgart &ndash; LKA-Youngsterball" src="auftritte_2005-05-27_10_min.jpg" border="0" vspace="5" hspace="5" /></a>
+				<a href="javascript:zoom800x600('auftritte_2005-05-27_11.jpg')" target="_self"><img alt="Stuttgart &ndash; LKA-Youngsterball" src="auftritte_2005-05-27_11_min.jpg" border="0" vspace="5" hspace="5" /></a>
+			</td>
+		</tr>
+		<tr>
+			<td width="500" class="inhalt1" align="center">
+				<a href="javascript:zoom800x600('auftritte_2005-05-27_12.jpg')" target="_self"><img alt="Stuttgart &ndash; LKA-Youngsterball" src="auftritte_2005-05-27_12_min.jpg" border="0" vspace="5" hspace="5" /></a>
+				<a href="javascript:zoom800x600('auftritte_2005-05-27_13.jpg')" target="_self"><img alt="Stuttgart &ndash; LKA-Youngsterball" src="auftritte_2005-05-27_13_min.jpg" border="0" vspace="5" hspace="5" /></a>
+				<a href="javascript:zoom800x600('auftritte_2005-05-27_14.jpg')" target="_self"><img alt="Stuttgart &ndash; LKA-Youngsterball" src="auftritte_2005-05-27_14_min.jpg" border="0" vspace="5" hspace="5" /></a>
+			</td>
+		</tr>
+		<tr>
+			<td width="500" class="inhalt1" align="center">
+				<a href="javascript:zoom800x600('auftritte_2005-05-27_15.jpg')" target="_self"><img alt="Stuttgart &ndash; LKA-Youngsterball" src="auftritte_2005-05-27_15_min.jpg" border="0" vspace="5" hspace="5" /></a>
+				<a href="javascript:zoom800x600('auftritte_2005-05-27_16.jpg')" target="_self"><img alt="Stuttgart &ndash; LKA-Youngsterball" src="auftritte_2005-05-27_16_min.jpg" border="0" vspace="5" hspace="5" /></a>
+			</td>
+		</tr>
+		<tr>
+			<td width="500" class="inhalt1" align="center">
+				<a href="javascript:zoom800x600('auftritte_2005-05-27_17.jpg')" target="_self"><img alt="Stuttgart &ndash; LKA-Youngsterball" src="auftritte_2005-05-27_17_min.jpg" border="0" vspace="5" hspace="5" /></a>
+				<a href="javascript:zoom800x600('auftritte_2005-05-27_18.jpg')" target="_self"><img alt="Stuttgart &ndash; LKA-Youngsterball" src="auftritte_2005-05-27_18_min.jpg" border="0" vspace="5" hspace="5" /></a>
+				<a href="javascript:zoom800x600('auftritte_2005-05-27_19.jpg')" target="_self"><img alt="Stuttgart &ndash; LKA-Youngsterball" src="auftritte_2005-05-27_19_min.jpg" border="0" vspace="5" hspace="5" /></a>
+			</td>
+		</tr>
+		<tr>
+			<td width="500" class="inhalt1" align="center">
+				<a href="javascript:zoom800x600('auftritte_2005-05-27_20.jpg')" target="_self"><img alt="Stuttgart &ndash; LKA-Youngsterball" src="auftritte_2005-05-27_20_min.jpg" border="0" vspace="5" hspace="5" /></a>
+				<a href="javascript:zoom800x600('auftritte_2005-05-27_21.jpg')" target="_self"><img alt="Stuttgart &ndash; LKA-Youngsterball" src="auftritte_2005-05-27_21_min.jpg" border="0" vspace="5" hspace="5" /></a>
+				<a href="javascript:zoom800x600('auftritte_2005-05-27_22.jpg')" target="_self"><img alt="Stuttgart &ndash; LKA-Youngsterball" src="auftritte_2005-05-27_22_min.jpg" border="0" vspace="5" hspace="5" /></a>
+				<a href="javascript:zoom800x600('auftritte_2005-05-27_23.jpg')" target="_self"><img alt="Stuttgart &ndash; LKA-Youngsterball" src="auftritte_2005-05-27_23_min.jpg" border="0" vspace="5" hspace="5" /></a>
+			</td>
+		</tr>
+		<tr>
+			<td width="500" class="inhalt1" align="center">
+				<a href="javascript:zoom800x600('auftritte_2005-05-27_24.jpg')" target="_self"><img alt="Stuttgart &ndash; LKA-Youngsterball" src="auftritte_2005-05-27_24_min.jpg" border="0" vspace="5" hspace="5" /></a>
+				<a href="javascript:zoom800x600('auftritte_2005-05-27_25.jpg')" target="_self"><img alt="Stuttgart &ndash; LKA-Youngsterball" src="auftritte_2005-05-27_25_min.jpg" border="0" vspace="5" hspace="5" /></a>
+				<a href="javascript:zoom800x600('auftritte_2005-05-27_26.jpg')" target="_self"><img alt="Stuttgart &ndash; LKA-Youngsterball" src="auftritte_2005-05-27_26_min.jpg" border="0" vspace="5" hspace="5" /></a>
+			</td>
+		</tr>
+		<tr>
+			<td width="500" class="inhalt1" align="center">
+				<a href="javascript:zoom800x600('auftritte_2005-05-27_27.jpg')" target="_self"><img alt="Stuttgart &ndash; LKA-Youngsterball" src="auftritte_2005-05-27_27_min.jpg" border="0" vspace="5" hspace="5" /></a>
+				<a href="javascript:zoom800x600('auftritte_2005-05-27_28.jpg')" target="_self"><img alt="Stuttgart &ndash; LKA-Youngsterball" src="auftritte_2005-05-27_28_min.jpg" border="0" vspace="5" hspace="5" /></a>
+				<a href="javascript:zoom800x600('auftritte_2005-05-27_29.jpg')" target="_self"><img alt="Stuttgart &ndash; LKA-Youngsterball" src="auftritte_2005-05-27_29_min.jpg" border="0" vspace="5" hspace="5" /></a>
+			</td>
+		</tr>
+	</table>
+	<p class="inhalt1" align="center">
+		<br />
+		<a href="javascript:history.back();">&laquo; zur&uuml;ck</a>
+	</p>
+
+<?php include '../../include/footer.php'; ?>

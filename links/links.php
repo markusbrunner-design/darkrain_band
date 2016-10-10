@@ -1,0 +1,168 @@
+<?php include '../include/head1.php'; ?>
+	<title>Dark Rain - Links</title>
+<?php include '../include/head2.php'; ?>
+
+
+	<h1>Links</h1>
+<!-- Promotion/Studio -->
+	<h2>Promotion/Studio</h2>
+	<p class="inhalt1">
+		<ul class="aufzaehlung">
+			<li>
+				<a href="http://www.p-promotion.de" target="_blank">www.p-promotion.de</a>&nbsp;&nbsp;(Pfannenschwarz-Promotion)
+			</li>
+			<li>
+				<a href="http://www.seitenbacher.de" target="_blank">www.seitenbacher.de</a>&nbsp;&nbsp;(Seitenbacher M&uuml;sli uvm.)
+			</li>
+			<li>
+				<a href="https://dpinfo.dpma.de/" target="_blank">dpinfo.dpma.de</a>&nbsp;&nbsp;(Markenregister)
+			</li>
+		</ul>
+	</p>
+	<br />
+<!-- Bandportale -->
+	<h2>Bandportale</h2>
+	<p class="inhalt1">
+		<ul class="aufzaehlung">
+			<li>
+				<a href="http://www.myspace.com/darkrainband" target="_blank">www.myspace.com/darkrainband</a>&nbsp;&nbsp;(myspace)
+			</li>
+			<li>
+				<a href="http://www.bands-live.de/tmp/index.php" target="_blank">www.bands-live.de</a>&nbsp;&nbsp;(Bands-Live)
+			</li>
+			<li>
+				<a href="http://www.band-liste.de" target="_blank">www.bandliste.de</a>&nbsp;&nbsp;(Bandliste)
+			</li>
+			<li>
+				<a href="http://www.madre-suedwest.de/" target="_blank">www.madre-suedwest.de</a>&nbsp;&nbsp;(Madre-S&uuml;dwest)
+			</li>
+			<li>
+				<a href="http://www.brighteyes.de/" target="_blank">www.brighteyes.de</a>&nbsp;&nbsp;(Bright Eyes &ndash; Metal- und Hardrockmagazin)
+			</li>
+		</ul>
+	</p>
+	<br />
+<!-- Bands -->
+	<h2>Bands</h2>
+	<p class="inhalt1">
+		<ul class="aufzaehlung">
+			<li>
+				<a href="http://www.losteden-band.de" target="_blank">www.losteden-band.de</a>&nbsp;&nbsp;(Lost Eden)
+			</li>
+			<li>
+				<a href="http://www.barbedwire.de" target="_blank">www.barbedwire.de</a>&nbsp;&nbsp;(Barbed Wire)
+			</li>
+			<li>
+				<a href="http://www.publicrelationband.de" target="_blank">www.publicrelationband.de</a>&nbsp;&nbsp;(Public Relation)
+			</li>
+			<li>
+				<a href="http://www.mr.cock.de.vu" target="_blank">www.mr.cock.de.vu</a>&nbsp;&nbsp;(Mr. Cock)
+			</li>
+		</ul>
+	</p>
+	<br />
+<!-- Festivals -->
+	<h2>Festivals</h2>
+	<p class="inhalt1">
+		<ul class="aufzaehlung">
+			<li>
+				<a href="http://www.bretthart.com" target="_blank">www.bretthart.com</a>&nbsp;&nbsp;(Bretthart-Festival)
+			</li>
+			<li>
+				<a href="http://www.taubertal-openair.de" target="_blank">www.taubertal-openair.de</a>&nbsp;&nbsp;(Taubertal-Festival)
+			</li>
+			<li>
+				<a href="http://www.tauberrockt.de" target="_blank">www.tauberrockt.de</a>&nbsp;&nbsp;(Tauberbischofsheim in Rockstimmung)
+			</li>
+			<li>
+				<a href="http://www.pressurefestival.com" target="_blank">www.pressurefestival.com</a>&nbsp;&nbsp;(Pressure-Festival in Herne)
+			</li>
+		</ul>
+	</p>
+	<br />
+<!-- Locations -->
+	<h2>Locations</h2>
+	<p class="inhalt1">
+		<ul class="aufzaehlung">
+			<li>
+				<a href="http://www.o25.de" target="_blank">www.o25.de</a>&nbsp;&nbsp;(o25 in Frankfurt)
+			</li>
+			<li>
+				<a href="http://www.rockfabrik-ludwigsburg.de" target="_blank">www.rockfabrik-ludwigsburg.de</a>&nbsp;&nbsp;(Rockfabrik in Ludwigsburg)
+			</li>
+			<li>
+				<a href="http://www.jui-miltenberg.de" target="_blank">www.jui-miltenberg.de</a>&nbsp;&nbsp;(Jui in Miltenberg)
+			</li>
+			<li>
+				<a href="http://www.substage.de" target="_blank">www.substage.de</a>&nbsp;&nbsp;(Substage in Karlsruhe)
+			</li>
+			<li>
+				<a href="http://www.oetingervilla.de" target="_blank">www.oetingervilla.de</a>&nbsp;&nbsp;(Oetinger Villa in Darmstadt)
+			</li>
+			<li>
+				<a href="http://www.jugendzentrum-erlenbach.de" target="_blank">www.jugendzentrum-erlenbach.de</a>&nbsp;&nbsp;(Jugendzentrum in Erlenbach)
+			</li>
+			<li>
+				<a href="http://www.ak115.de" target="_blank">www.ak115.de</a>&nbsp;&nbsp;(AK 115 - Vermietbare Halle in Wertheim)
+			</li>
+			<li>
+				<a href="http://www.akw-info.de" target="_blank">www.akw-info.de</a>&nbsp;&nbsp;(Autonomes Kulturzentrum in W&uuml;rzburg)
+			</li>
+			<li>
+				<a href="http://www.stattbahnhof-sw.de" target="_blank">www.stattbahnhof-sw.de</a>&nbsp;&nbsp;(Kulturhaus Stadtbahnhof in Schweinfurt)
+			</li>
+			<li>
+				<a href="http://www.goldene-krone.de" target="_blank">www.goldene-krone.de</a>&nbsp;&nbsp;(Goldene Krone in Darmstadt)
+			</li>
+			<li>
+				<a href="http://www.colos-saal.de" target="_blank">www.colos-saal.de</a>&nbsp;&nbsp;(Colos-Saal in Aschaffenburg)
+			</li>
+			<li>
+				<a href="http://www.batschkapp.de" target="_blank">www.batschkapp.de</a>&nbsp;&nbsp;(Batschkapp in Frankfurt)
+			</li>
+			<li>
+				<a href="http://www.jukuz.de" target="_blank">www.jukuz.de</a>&nbsp;&nbsp;(Jugend- und Kulturzentrum in Aschaffenburg)
+			</li>
+			<li>
+				<a href="http://www.rainbow-altheim.de" target="_blank">www.rainbow-altheim.de</a>&nbsp;&nbsp;(Rainbow lokal in Altheim [Geheimtipp])
+			</li>
+			<li>
+				<a href="http://www.lka-longhorn.de" target="_blank">www.lka-longhorn.de</a>&nbsp;&nbsp;(LKA in Stuttgart)
+			</li>
+			<li>
+				<a href="http://www.livearena-muenster.de" target="_blank">www.livearena-muenster.de</a>&nbsp;&nbsp;(Live Arena in M&uuml;nster)
+			</li>
+			<li>
+				<a href="http://www.roehre-konzerte.de" target="_blank">www.roehre-konzerte.de</a>&nbsp;&nbsp;(Die R&ouml;hre in Stuttgart)
+			</li>
+			<li>
+				<a href="http://www.matrix-bochum.de" target="_blank">www.matrix-bochum.de</a>&nbsp;&nbsp;(Matrix in Bochum)
+			</li>
+			<li>
+				<a href="http://www.moritzbastei.de" target="_blank">www.moritzbastei.de</a>&nbsp;&nbsp;(Moritzbastei in Leipzig)
+			</li>
+		</ul>
+	</p>
+	<br />
+<!-- Shopping -->
+	<h2>Shopping</h2>
+	<p class="inhalt1">
+		<ul class="aufzaehlung">
+			<li>
+				<a href="http://www.x-tra-x.de" target="_blank">www.x-tra-x.de</a>&nbsp;&nbsp;(X-TRA-X - Undergroundfashion)
+			</li>
+			<li>
+				<a href="http://www.the-dome-clothes.de" target="_blank">www.the-dome-clothes.de</a>&nbsp;&nbsp;(The Dome - Gothic-Klamotten)
+			</li>
+			<li>
+				<a href="http://www.imperial-clothing.de" target="_blank">www.imperial-clothing.de</a>&nbsp;&nbsp;(Imperial Clothing - Band-Klamotten)
+			</li>
+			<li>
+				<a href="http://www.kombathletics.com" target="_blank">www.kombathletics.com</a>&nbsp;&nbsp;(Kombathletics - Band-Klamotten)
+			</li>
+		</ul>
+	</p>
+	<br />
+
+
+<?php include '../include/footer.php'; ?>

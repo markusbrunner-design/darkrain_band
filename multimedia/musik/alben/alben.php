@@ -1,0 +1,9 @@
+<?php include '../../../include/head1.php'; ?>
+	<title>Dark Rain - Multimedia Musik Alben</title>
+<?php include '../../../include/head2.php'; ?>
+	
+<h1>Alben (Songausschnitte)</h1>
+
+<p>Es stehen leider noch keine Dateien zur Auswahl.</p>
+
+<?php include '../../../include/footer.php'; ?>
