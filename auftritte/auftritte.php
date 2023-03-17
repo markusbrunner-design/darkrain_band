@@ -1,6 +1,4 @@
-<?php include '../include/head1.php'; ?>
-	<title>Dark Rain - Auftritte</title>
-<?php include '../include/head2.php'; ?>
+<?php include '../include/head.php'; ?>
 
 	<h1>Auftritte</h1>
 	<?php

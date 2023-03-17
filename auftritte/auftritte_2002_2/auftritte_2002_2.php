@@ -1,6 +1,4 @@
-<?php include '../../include/head1.php'; ?>
-	<title>Dark Rain - die offizielle Homepage</title>
-<?php include '../../include/head2.php'; ?>
+<?php include '../../include/head.php'; ?>
 
 	<p class="titel">Merchingen &ndash; Bienenstockfest</p>
 	<table border="0" cellspacing="0" cellpadding="0">

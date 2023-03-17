@@ -1,6 +1,4 @@
-<?php include '../../../include/head1.php'; ?>
-	<title>Dark Rain - Multimedia Musik Auftritte</title>
-<?php include '../../../include/head2.php'; ?>
+<?php include '../../../include/head.php'; ?>
 	
 <h1>MP3s von Auftritten</h1>
 

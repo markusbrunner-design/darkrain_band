@@ -1,7 +1,4 @@
-<?php include '../../include/head1.php'; ?>
-	<title>Dark Rain - Biographie Katja</title>
-<?php include '../../include/head2.php'; ?>
-
+<?php include '../../include/head.php'; ?>
 
 	<h1>Katja Deutschmann</h1>
 	<img alt="Bild von Bassistin Katja" src="../../multimedia/bilder/promotion/promotion_2005/promotion_2005_1.jpg" width="250" align="middle" border="0" />
@@ -44,7 +41,7 @@
 		</tr>
 		<tr>
 			<td width="125" class="inhalt1bold">Lieblingsessen:</td>
-			<td width="375" class="inhalt1">jegliche Art von Nudeln, am besten mit Käse überbacken</td>
+			<td width="375" class="inhalt1">jegliche Art von Nudeln, am besten mit Kï¿½se ï¿½berbacken</td>
 		</tr>
 		<tr class="bggrau">
 			<td width="125" class="inhalt1bold">Lieblingsgetr&auml;nke:</td>
@@ -52,7 +49,7 @@
 		</tr>
 		<tr>
 			<td width="125" class="inhalt1bold">Lieblingsfilme:</td>
-			<td width="375" class="inhalt1">Nackte Kanone, Hot Shots, Ace Ventura, Eine schöne Bescherung, Sieben, Schweigen der Lämmer, kurz gesagt: Komödien, Psychothriller, Horror</td>
+			<td width="375" class="inhalt1">Nackte Kanone, Hot Shots, Ace Ventura, Eine schï¿½ne Bescherung, Sieben, Schweigen der Lï¿½mmer, kurz gesagt: Komï¿½dien, Psychothriller, Horror</td>
 		</tr>
 		<tr class="bggrau">
 			<td width="125" class="inhalt1bold">Lieblingsbuch:</td>
@@ -72,11 +69,11 @@
 		</tr>
 		<tr class="bggrau">
 			<td width="125" class="inhalt1bold">Ich kann:</td>
-			<td width="375" class="inhalt1">anderen zuhören, rumgrummeln, für andere da sein, gut drauf sein und über alles lachen (wie Dr. Hibbert von den Simpsons)</td>
+			<td width="375" class="inhalt1">anderen zuhï¿½ren, rumgrummeln, fï¿½r andere da sein, gut drauf sein und ï¿½ber alles lachen (wie Dr. Hibbert von den Simpsons)</td>
 		</tr>
 		<tr>
 			<td width="125" class="inhalt1bold">Ich kann nicht:</td>
-			<td width="375" class="inhalt1">singen, rückwärts einparken</td>
+			<td width="375" class="inhalt1">singen, rï¿½ckwï¿½rts einparken</td>
 		</tr>
 		<tr class="bggrau">
 			<td width="125" class="inhalt1bold">Davon bin ich Fan:</td>

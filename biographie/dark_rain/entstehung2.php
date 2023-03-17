@@ -1,7 +1,4 @@
-<?php include '../../include/head1.php'; ?>
-	<title>Dark Rain - Die Entstehung Teil 2</title>
-<?php include '../../include/head2.php'; ?>
-
+<?php include '../../include/head.php'; ?>
 
 	<h1>Wie es weiterging</h1>
 	<img alt="Bild von den Alben von 2001 und 2003" src="../../shop/bilder/alben_2001_2003.jpg" style="float:right; margin-left:10px;" width="125" />
@@ -66,6 +63,5 @@
 		<br />
 		<a href="entstehung.php">&laquo; zur&uuml;ck</a>
 	</p>
-
 
 <?php include '../../include/footer.php'; ?>

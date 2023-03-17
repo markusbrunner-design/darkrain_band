@@ -1,6 +1,5 @@
-<?php include '../include/head1.php'; ?>
-	<title>Dark Rain - AGB</title>
-<?php include '../include/head2.php'; ?>
+<?php include '../include/head.php'; ?>
+
 <!-- Haftungsausschluss -->
 	<h1>
 		AGB Online-Shop
@@ -35,14 +34,7 @@
 		einer Bestellung in der Regel innerhalb von 48 Stunden an den K&auml;ufer
 		versendet. Hierzu muss die E-Mail-Adresse des K&auml;ufers g&uuml;ltig sein.
 	</p>
-	<!--
-	<h2>
-		4. Steuernummer
-	</h2>
-	<p class="inhalt1">
-		Steuernummer von P-Promotion: 
-	</p>
-	-->
 	<br />
+
 	<?php if (!isset($_GET['shop'])) {echo "<p class=\"inhalt1\"><a href=\"agb_haftungsausschluss.php\">zur&uuml;ck zum allgemeinen Haftungsausschluss</a></p>";}?>
 <?php include '../include/footer.php'; ?>

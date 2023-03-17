@@ -1,7 +1,4 @@
-<?php include '../include/head1.php'; ?>
-	<title>Dark Rain - Links</title>
-<?php include '../include/head2.php'; ?>
-
+<?php include '../include/head.php'; ?>
 
 	<h1>Links</h1>
 <!-- Promotion/Studio -->

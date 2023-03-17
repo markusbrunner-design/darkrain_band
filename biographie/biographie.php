@@ -1,7 +1,4 @@
-<?php include '../include/head1.php'; ?>
-	<title>Dark Rain - Biographie</title>
-<?php include '../include/head2.php'; ?>
-
+<?php include '../include/head.php'; ?>
 
 	<h1>Biographie</h1>
 	<p class="inhalt1">
@@ -36,6 +33,5 @@
 		</a>
 	</p>
 	<br />
-
 
 <?php include '../include/footer.php'; ?>

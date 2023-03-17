@@ -1,7 +1,4 @@
-<?php include '../../include/head1.php'; ?>
-	<title>Dark Rain - Biographie Markus</title>
-<?php include '../../include/head2.php'; ?>
-
+<?php include '../../include/head.php'; ?>
 
 	<h1>Markus Brunner</h1>
 	<img alt="Bild von Gitarrist Markus" src="../../multimedia/bilder/promotion/promotion_2003/promotion_2003_3.jpg" width="250" align="middle" border="0" />

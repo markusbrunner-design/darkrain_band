@@ -1,6 +1,5 @@
-<?php include '../include/head1.php'; ?>
-	<title>Dark Rain - AGB</title>
-<?php include '../include/head2.php'; ?>
+<?php include '../include/head.php'; ?>
+
 <!-- Haftungsausschluss -->
 	<h1>
 		AGB Haftungsausschluss
@@ -108,11 +107,5 @@
 		und ihrer G&uuml;ltigkeit davon unber&uuml;hrt.
 	</p>
 	<br />
-	<?php
-/*
-	?>
-	<p class="inhalt1"><a href="agb_shop.php">zur Online-Shop AGB</a></p>
-	<?php
-*/
-	?>
+
 <?php include '../include/footer.php'; ?>

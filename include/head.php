@@ -33,4 +33,8 @@
 	<link rel="shortcut icon" href="http://<?php echo $domain; ?>/images/sonstiges/favicon.ico" />
 	<link rel="stylesheet" type="text/css" media="screen" href="http://<?php echo $domain; ?>/css/styles.css" />
 	<link rel="stylesheet" type="text/css" media="print, embossed"	href="http://<?php echo $domain; ?>/css/druck.css" />
-    <script language="JavaScript" type="text/javascript" src="http://<?php echo $domain; ?>/javascript/zoom.js" /></script>
+  <script language="JavaScript" type="text/javascript" src="http://<?php echo $domain; ?>/javascript/zoom.js" /></script>
+  <title>Dark Rain - Band</title>
+</head>
+
+<body>

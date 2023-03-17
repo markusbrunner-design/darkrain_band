@@ -1,6 +1,4 @@
-<?php include '../../include/head1.php'; ?>
-	<title>Dark Rain - Die Entstehung Teil 1</title>
-<?php include '../../include/head2.php'; ?>
+<?php include '../../include/head.php'; ?>
 
 
 	<h1>Wie alles entstand</h1>
@@ -152,6 +150,5 @@
 		<br />
 		<a href="../biographie.php">&laquo; zur&uuml;ck</a>&emsp;&emsp;&emsp;<a href="entstehung2.php">weiter &raquo;</a>
 	</p>
-
 
 <?php include '../../include/footer.php'; ?>

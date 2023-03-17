@@ -1,7 +1,4 @@
-<?php include '../include/head1.php'; ?>
-	<title>Dark Rain - Discographie</title>
-<?php include '../include/head2.php'; ?>
-
+<?php include '../include/head.php'; ?>
 
 <!-- Discographie -->
 	<h1>Discographie</h1>

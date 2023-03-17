@@ -1,7 +1,4 @@
-<?php include '../../include/head1.php'; ?>
-	<title>Dark Rain - Biographie Sarah</title>
-<?php include '../../include/head2.php'; ?>
-
+<?php include '../../include/head.php'; ?>
 
 	<h1>Sarah Pfannenschwarz</h1>
 	<img alt="Bild von S&auml;ngerin Sarah" src="../../multimedia/bilder/promotion/promotion_2003/promotion_2003_2.jpg" width="250" align="middle" border="0" />

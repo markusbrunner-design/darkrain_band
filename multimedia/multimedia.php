@@ -1,7 +1,5 @@
-<?php include '../include/head1.php'; ?>
-	<title>Dark Rain - Multimedia</title>
-<?php include '../include/head2.php'; ?>
-	
+<?php include '../include/head.php'; ?>
+
 <h1>Multimedia</h1>
 
 	<h2><a href="bilder/bilder.php">Bilder</a></h2>
@@ -24,6 +22,4 @@
 		Hier findest Du Videos rund um Dark Rain.
 	</p>
 
-
-	
 <?php include '../include/footer.php'; ?>

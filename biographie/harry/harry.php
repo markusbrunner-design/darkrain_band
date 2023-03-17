@@ -1,7 +1,4 @@
-<?php include '../../include/head1.php'; ?>
-	<title>Dark Rain - Biographie Harry</title>
-<?php include '../../include/head2.php'; ?>
-
+<?php include '../../include/head.php'; ?>
 
 	<h1>Harry Pfannenschwarz</h1>
 	<img alt="Bild von Schlagzeuger Harry" src="../../multimedia/bilder/promotion/promotion_2003/promotion_2003_1.jpg" width="250" align="middle" border="0" />
@@ -52,7 +49,7 @@
 		</tr>
 		<tr>
 			<td width="125" class="inhalt1bold">Lieblingsfilme:</td>
-			<td width="375" class="inhalt1">Boys don´t cry, Bitters&uuml;&szlig;er Tod, Cube, Das Baumhaus.</td>
+			<td width="375" class="inhalt1">Boys donï¿½t cry, Bitters&uuml;&szlig;er Tod, Cube, Das Baumhaus.</td>
 		</tr>
 		<tr class="bggrau">
 			<td width="125" class="inhalt1bold">Lieblingsbuch:</td>
@@ -95,6 +92,5 @@
 		<br />
 		<a href="../biographie.php">&laquo; zur&uuml;ck</a>
 	</p>
-
 
 <?php include '../../include/footer.php'; ?>

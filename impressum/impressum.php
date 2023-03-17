@@ -1,7 +1,4 @@
-<?php include '../include/head1.php'; ?>
-	<title>Dark Rain - Impressum</title>
-<?php include '../include/head2.php'; ?>
-
+<?php include '../include/head.php'; ?>
 
 <!-- Impressum -->
 	<h1>
@@ -14,14 +11,14 @@
 		<strong>Dark Rain</strong><br />
 		Stellvertretend: <strong>Markus Brunner</strong><br />
 		Mail: <strong>dark-rain(dot)info(at)web(dot)de</strong><br />
-		Web: <a href="http://www.markusbrunner-design.de" target="_blank">www.markusbrunner-design.de</a>
+		Web: <a href="http://www.markusbrunner.de" target="_blank">www.markusbrunner.de</a>
 	</p>
 	<h2>
 		Grafik/Design:
 	</h2>
 	<p class="inhalt1">
 		<a href="http://www.markusbrunner-design.de" target="_blank">Markus Brunner</a>, 
-		<a href="http://www.katjadeutschmann.de" target="_blank">Katja Deutschmann</a><br />
+		<a href="http://www.katjabrunner.de" target="_blank">Katja Brunner</a><br />
 	</p>
 	<br />	
 <?php include '../include/footer.php'; ?>
