@@ -1,19 +1,28 @@
 const domain = document.querySelector('meta[name="DR.domain.github"]').getAttribute('content');
+const contentSelector = '#content';
+let contentContainer = document.querySelector(contentSelector);
+
+let getTextFileContent = function(file) {
+  return fetch(file)
+    .then(response => response.text())
+    .catch(error => {
+      // Handle any error that occurred during the fetch
+      console.error('Error:', error);
+    });
+}
 
 document.querySelectorAll('.ajax-link').forEach(link => {
 	link.addEventListener('click', function(event) {
 		event.preventDefault();
 		const link = this.getAttribute('href');
-        const absoluteLink = [domain, link].join('');
+    const relativeLink = ['./', link].join('');
+    const absoluteLink = [domain, link].join('');
 
-        // gets the html content of the absolute link and puts it into the <div id="content"></div>
-        fetch(absoluteLink)
-          .then(response => response.text())
-          .then(html => {
-            document.querySelector('#content').innerHTML = html;
-          })
-          .catch(error => {
-            console.error('Error fetching content:', error);
-          });
+    let text = getTextFileContent(relativeLink).then(
+      (html) => {
+        contentContainer.innerHTML = html;
+        location.hash = contentSelector;
+      }
+    );
 	});
 });
