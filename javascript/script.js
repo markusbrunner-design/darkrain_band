@@ -9,9 +9,9 @@ let getTextFileContent = function(file) {
       // Handle any error that occurred during the fetch
       console.error('Error:', error);
     });
-}
+};
 
-addLinkEventListeners(wrapper) {
+let addLinkEventListeners = function(wrapper) {
   wrapper.querySelectorAll('.ajax-link').forEach(link => {
     link.addEventListener('click', function(event) {
       event.preventDefault();
@@ -28,5 +28,6 @@ addLinkEventListeners(wrapper) {
       );
     });
   });
-}
+};
+
 addLinkEventListeners(document);
