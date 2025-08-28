@@ -1,4 +1,4 @@
-const domain = document.querySelector('meta[name="DR.domain.github"]').getAttribute('content');
+const base = document.querySelector('base').getAttribute('href');
 const contentSelector = '#content';
 let contentContainer = document.querySelector(contentSelector);
 
@@ -16,9 +16,9 @@ document.querySelectorAll('.ajax-link').forEach(link => {
 		event.preventDefault();
 		const link = this.getAttribute('href');
     const relativeLink = ['./', link].join('');
-    const absoluteLink = [domain, link].join('');
+    const absoluteLink = [base, link].join('');
 
-    let text = getTextFileContent(relativeLink).then(
+    let text = getTextFileContent(link).then(
       (html) => {
         contentContainer.innerHTML = html;
         location.hash = contentSelector;
