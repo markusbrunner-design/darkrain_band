@@ -11,18 +11,22 @@ let getTextFileContent = function(file) {
     });
 }
 
-document.querySelectorAll('.ajax-link').forEach(link => {
-	link.addEventListener('click', function(event) {
-		event.preventDefault();
-		const link = this.getAttribute('href');
-    const relativeLink = ['./', link].join('');
-    const absoluteLink = [base, link].join('');
+addLinkEventListeners(wrapper) {
+  wrapper.querySelectorAll('.ajax-link').forEach(link => {
+    link.addEventListener('click', function(event) {
+      event.preventDefault();
+      const link = this.getAttribute('href');
+      const relativeLink = ['./', link].join('');
+      const absoluteLink = [base, link].join('');
 
-    let text = getTextFileContent(link).then(
-      (html) => {
-        contentContainer.innerHTML = html;
-        location.hash = contentSelector;
-      }
-    );
-	});
-});
+      let text = getTextFileContent(link).then(
+        (html) => {
+          contentContainer.innerHTML = html;
+          location.hash = contentSelector;
+          addLinkEventListeners(contentContainer);
+        }
+      );
+    });
+  });
+}
+addLinkEventListeners(document);
