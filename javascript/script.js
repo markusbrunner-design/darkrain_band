@@ -1,4 +1,4 @@
-const domain = document.querySelector('meta[name="DR.domain"]').getAttribute('content');
+const domain = document.querySelector('meta[name="DR.domain.github"]').getAttribute('content');
 
 document.querySelectorAll('.ajax-link').forEach(link => {
 	link.addEventListener('click', function(event) {
