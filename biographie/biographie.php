@@ -1,5 +1,3 @@
-<?php include '../include/head.php'; ?>
-
 	<h1>Biographie</h1>
 	<p class="inhalt1">
 		<a href="dark_rain/entstehung.php?menue=biographie" target="_self">
@@ -33,5 +31,3 @@
 		</a>
 	</p>
 	<br />
-
-<?php include '../include/footer.php'; ?>
