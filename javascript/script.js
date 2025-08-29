@@ -25,7 +25,7 @@ let navigator = {
   },
   checkLink: function(link) {
     // no protocol and domain should be in the link
-    return link && link.trim() !== '' && !link.startsWith('http');
+    return link && !link.startsWith('http');
   },
   loadContent: function(link) {
     if (!this.checkLink(link)) {
