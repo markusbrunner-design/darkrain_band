@@ -1,6 +1,6 @@
-const base = document.querySelector('base').getAttribute('href');
-const contentSelector = '#content';
-let contentContainer = document.querySelector(contentSelector);
+const BASE = document.querySelector('base').getAttribute('href');
+const CONTENTSELECTOR = '#content';
+let contentContainer = document.querySelector(CONTENTSELECTOR);
 
 let GETPARAMS = {
   get: function(name) {
@@ -36,7 +36,7 @@ let navigationController = {
       (html) => {
         GETPARAMS.set('page', link);
         contentContainer.innerHTML = html;
-        location.hash = contentSelector;
+        location.hash = CONTENTSELECTOR;
         navigationController.addLinkEventListeners(contentContainer);
       }
     );
@@ -47,7 +47,7 @@ let navigationController = {
         event.preventDefault();
         const link = this.getAttribute('href');
         //const relativeLink = ['./', link].join('');
-        //const absoluteLink = [base, link].join('');
+        //const absoluteLink = [BASE, link].join('');
         navigationController.loadContent(link);
       });
     });
