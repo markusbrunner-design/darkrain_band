@@ -298,7 +298,15 @@ nav.paging ul {
 	display: inline-block;
 }
 
-nav.paging ul li {
+nav.paging li {
 	display: inline;
 	margin: 0 10px;
+}
+
+nav.paging li:first-child a:before {
+    content: '< ';
+}
+
+nav.paging li:last-child a:after {
+    content: ' >';
 }
