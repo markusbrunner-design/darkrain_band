@@ -14,7 +14,7 @@ let GETPARAMS = {
   }
 };
 
-let navigator = {
+let navigationController = {
   getTextFileContent: function(file) {
     return fetch(file)
       .then(response => response.text())
@@ -28,16 +28,16 @@ let navigator = {
     return link && !link.startsWith('http');
   },
   loadContent: function(link) {
-    if (!this.checkLink(link)) {
+    if (!navigationController.checkLink(link)) {
       console.error('Invalid link:', link);
       return;
     }
-    this.getTextFileContent(link).then(
+    navigationController.getTextFileContent(link).then(
       (html) => {
         GETPARAMS.set('page', link);
         contentContainer.innerHTML = html;
         location.hash = contentSelector;
-        addLinkEventListeners(contentContainer);
+        navigationController.addLinkEventListeners(contentContainer);
       }
     );
   },
@@ -48,7 +48,7 @@ let navigator = {
         const link = this.getAttribute('href');
         //const relativeLink = ['./', link].join('');
         //const absoluteLink = [base, link].join('');
-        this.loadContent(link);
+        navigationController.loadContent(link);
       });
     });
   }
@@ -57,6 +57,6 @@ let navigator = {
 // on page load loadContent if GETPARAMS.get('page') is not null
 let page = GETPARAMS.get('page');
 if (page) {
-  navigator.loadContent(page);
+  navigationController.loadContent(page);
 }
-navigator.addLinkEventListeners(document);
+navigationController.addLinkEventListeners(document);
