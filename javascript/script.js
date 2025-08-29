@@ -51,7 +51,7 @@ let navigator = {
         this.loadContent(link);
       });
     });
-  };
+  }
 };
 
 // on page load loadContent if GETPARAMS.get('page') is not null
@@ -59,5 +59,4 @@ let page = GETPARAMS.get('page');
 if (page) {
   navigator.loadContent(page);
 }
-
 navigator.addLinkEventListeners(document);
