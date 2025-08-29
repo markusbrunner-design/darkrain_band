@@ -60,3 +60,22 @@ a:active {
 	font-family: Georgia, Arial, Helvetica, sans-serif;
 	color: rgb(0, 153, 204);
 }
+
+/* sub-navigation in auftritte */
+nav.navigation {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	text-align: center;
+}
+
+nav.navigation ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	display: inline-block;
+}
+
+nav.navigation ul li {
+	display: inline;
+	margin: 0 10px;
+}
