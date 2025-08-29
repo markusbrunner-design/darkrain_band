@@ -282,7 +282,7 @@ h2 {
 
 /* sub-navigation in auftritte */
 nav {
-	display: inline-block;
+	display: block;
 }
 
 nav.paging {
