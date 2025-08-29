@@ -279,3 +279,26 @@ h2 {
 .displaynone {
 	display: none;
 }
+
+/* sub-navigation in auftritte */
+nav {
+	display: inline-block;
+}
+
+nav.paging {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	text-align: center;
+}
+
+nav.paging ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	display: inline-block;
+}
+
+nav.paging ul li {
+	display: inline;
+	margin: 0 10px;
+}
